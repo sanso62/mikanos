@@ -1,0 +1,4 @@
+kernel/mnt/
+kernel/disk.img
+kernel/kernel.elf
+kernel/main.o
