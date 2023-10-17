@@ -1,1 +1,1 @@
-./kernel/frame_buffer_config.hpp
+/home/cmd/workspace/mikanos/kernel/frame_buffer_config.hpp
